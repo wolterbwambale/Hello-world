@@ -25,10 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -60,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello world] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is my first project at microverse.
 
-**[your_project__name]** is a...
+**[Hello world]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
